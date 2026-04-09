@@ -1,0 +1,2 @@
+sdk/clang-18 filter=lfs diff=lfs merge=lfs -text
+sdk/clangd filter=lfs diff=lfs merge=lfs -text
