@@ -2,4 +2,6 @@ tool
 tool/bear
 sdk/clang
 sdk/pico
-
+script/python/audio
+script/bash
+script/fish
